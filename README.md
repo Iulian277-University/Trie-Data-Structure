@@ -40,7 +40,7 @@ For implementing this homework, I've used:
     The same algorithm used in function 'search_book', but
     this time I searched in T2 (for authors)
         
-*SEARCH_BY_AUTHOR( - Search an author or a specific book of an author (based on the name or on the prefix of the book)
+*SEARCH_BY_AUTHOR* - Search an author or a specific book of an author (based on the name or on the prefix of the book)
     If we need to search the author based on the prefix
         The same as above
     Else if we need to search the author based on the full name
