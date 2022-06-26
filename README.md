@@ -1,6 +1,6 @@
 # Trie data structure implemented in C
 
-// Taiatu Iulian Marius - 312CB
+## Taiatu Iulian Marius - 312CB
 
 For implementing this homework, I've used:
     -> T1: trie for holding the books
