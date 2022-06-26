@@ -3,10 +3,8 @@
 ## Taiatu Iulian Marius - 312CB
 
 For implementing this homework, I've used:
-    -> T1: trie for holding the books
-        The end of the key is a pointer to a struct which contains the informations about the book
-    -> T2: trie for holding the authors
-        The end of the key is a pointer to a trie of books similar to T1
+- T1: trie for holding the books. The end of the key is a pointer to a struct which contains the informations about the book
+- T2: trie for holding the authors. The end of the key is a pointer to a trie of books similar to T1
 
 `ADD_BOOK` - Insert a new key in trie
     I allocated a new book
